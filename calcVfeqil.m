@@ -1,6 +1,6 @@
 function [alphaPF,betaPF] = calcVfeqil(T_farenheit, curve_name)
 
-if ~ismember(curve_name, {'Castro', 'T27Aero', 'T27DT'})
+if ~ismember(curve_name, {'Castro'})
     error('Not an implemented Beta Approach Curve')
 end
 
