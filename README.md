@@ -1,5 +1,6 @@
-# PIRATES
+# PIRATES <img width="50" alt="Cartoon image of a PIRATE." class="recess" src="https://github.com/user-attachments/assets/a79ceb6f-7382-442a-af2b-e43df6961a03">
 Code for the Process-Scale Industry-Research Automated Texture Evolution Simulation (PIRATES).
+
 
 ## Cite As
 B.A. Begley, M.E. Hurley, M.S. David & V.M. Miller. "A Multiscale Model Predicting Site-Specific Texture Evolution: Application to Two-Phase Titanium Alloys." *Integrating Materials and Manufacturing Innovation* (Accepted). [DOI](https://doi.org/https://doi.org/10.1007/s40192-025-00433-2).
