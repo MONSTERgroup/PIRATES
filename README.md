@@ -16,7 +16,7 @@ B.A. Begley, M.E. Hurley, M.S. David & V.M. Miller. "A Multiscale Model Predicti
 [**VAMPYR**](https://github.com/MONSTERgroup/VAMPYR/tree/vampyr8): **V**PSC **A**utomation in **M**TEX for **P**olycrystal plasticit**Y** **R**esearch
 - Specifically, the linked vampyr8 branch which has syntax for VPSC 8, rather than the initial version for VPSC 7.
 
-[**VPSC 8**](https://github.com/lanl/VPSC_code) The Viscoplastic self-consistent polycrystal plasticity model
+[**VPSC 8**](https://github.com/lanl/VPSC_code) The viscoplastic self-consistent polycrystal plasticity model
 - A VPSC executable compiled for Windows 11 is included included with VAMPYR. Users with incompatible systems will have to compile VPSC from source code.
 
 ## Initial Setup and Startup
