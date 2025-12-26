@@ -7,7 +7,7 @@ B.A. Begley, M.E. Hurley, M.S. David & V.M. Miller. "A Multiscale Model Predicti
 
 ## Requirements and Dependencies
 
-**MATLAB** (R2019a or later; earlier version may work but are untested)
+**MATLAB** (R2019a or later; earlier versions may work but are untested)
 - Some dependencies (MTEX, VAMPYR) use the MATLAB **Optimization Toolbox** for additional features, but this toolbox is not necessary for PIRATES to be used as demonstrated in the manuscript.
 
 [**MTEX**](https://mtex-toolbox.github.io/download) open source MATLAB toolbox for crystallographic texture analysis
