@@ -3,7 +3,7 @@ Code for the Process-Scale Industry-Research Automated Texture Evolution Simulat
 
 
 ## Cite As
-B.A. Begley, M.E. Hurley, M.S. David & V.M. Miller. "A Multiscale Model Predicting Site-Specific Texture Evolution: Application to Two-Phase Titanium Alloys." *Integrating Materials and Manufacturing Innovation* (Accepted). [DOI](https://doi.org/https://doi.org/10.1007/s40192-025-00433-2).
+B.A. Begley, M.E. Hurley, M.S. David & V.M. Miller. "A Multiscale Model Predicting Site-Specific Texture Evolution: Application to Two-Phase Titanium Alloys." *Integrating Materials and Manufacturing Innovation* (2025). [DOI](https://doi.org/https://doi.org/10.1007/s40192-025-00433-2).
 
 ## Requirements and Dependencies
 
